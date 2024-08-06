@@ -82,6 +82,16 @@ class TestRegistrationForm:
             (f"Date of Birth {date_of_birth} "
              f"was not filled correctly")
 
+    @pytest.mark.parametrize("subjects", [
+        ["Maths"],
+        ["Computer Science"],
+        ["English", "Chemistry", "Biology", "Social Studies", "Physics"]
+    ])
+    def test_subjects(self, page, subjects):
+        page.open()
+        page.fill_subjects(subjects)
+        assert page.get_subjects() == subjects
+
     def test_current_address(self, page):
         page.open()
         person = PersonData()
