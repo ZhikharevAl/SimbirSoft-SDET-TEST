@@ -11,8 +11,10 @@ def browser():
     chrome_options.add_argument("--window-size=1920,1080")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
-
+    chrome_options.add_argument("--disable-extensions")
+    chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--disable-popup-blocking")
+    chrome_options.add_experimental_option("excludeSwitches", ["enable-logging"])
 
     driver = webdriver.Chrome(options=chrome_options)
     driver.implicitly_wait(10)
@@ -29,6 +31,11 @@ def setup_teardown(request, browser):
         allure.attach(browser.get_screenshot_as_png(),
                       name=f"screenshot_{item.name}",
                       attachment_type=allure.attachment_type.PNG)
+        allure.attach(
+            "\n".join(browser.get_log("browser")),
+            name="browser_logs",
+            attachment_type=allure.attachment_type.TEXT
+        )
 
 
 @pytest.hookimpl(tryfirst=True, hookwrapper=True)
