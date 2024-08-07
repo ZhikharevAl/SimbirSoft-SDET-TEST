@@ -1,6 +1,5 @@
 import os
 import pytest
-import time
 import allure
 from allure_commons.types import Severity
 
@@ -125,7 +124,6 @@ class TestRegistrationForm:
             logger.info(f"Заполнение поля 'Мобильный телефон' "
                         f"значением {person.mobile}")
             page.fill_mobile(person.mobile)
-        time.sleep(1)
         with allure.step("Проверка корректности заполнения поля 'Мобильный телефон'"):
             logger.info("Проверка корректности заполнения поля 'Мобильный телефон'")
             assert page.get_mobile() == person.mobile, \
