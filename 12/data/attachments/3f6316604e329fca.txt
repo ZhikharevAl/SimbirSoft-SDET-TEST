@@ -1,0 +1,28 @@
+2024-08-07 21:43:31,344 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 21:43:31,345 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 21:43:37,488 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Rodney
+2024-08-07 21:43:37,987 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Hampton
+2024-08-07 21:43:38,157 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением jenna53@example.org
+2024-08-07 21:43:38,368 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 21:43:38,454 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 9397767605
+2024-08-07 21:43:38,563 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 21:43:38,860 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 21:43:38,928 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 21:43:41,344 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 21:43:42,065 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 65686 Deanna Ramp
+New Matthew, AR 30725
+2024-08-07 21:43:42,442 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
+2024-08-07 21:43:45,986 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 21:43:45,986 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 21:43:46,240 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Victor
+2024-08-07 21:43:51,982 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Wilkins
+2024-08-07 21:43:52,080 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением karen62@example.com
+2024-08-07 21:43:52,180 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 21:43:52,328 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 4150606294
+2024-08-07 21:43:52,505 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 21:43:52,839 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 21:43:52,876 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 21:43:54,880 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 21:43:55,690 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 66869 Olson Corner Apt. 373
+West Lynnshire, ND 27856
+2024-08-07 21:43:56,213 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi

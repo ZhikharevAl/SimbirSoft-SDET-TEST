@@ -1,0 +1,5 @@
+2024-08-07 21:44:12,584 - tests.test_registration_form - INFO - Тестирование поля 'Текущий адрес' начато
+2024-08-07 21:44:12,585 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 21:44:18,030 - tests.test_registration_form - INFO - Заполнение поля 'Текущий адрес'
+2024-08-07 21:44:18,443 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Текущий адрес'
+2024-08-07 21:44:18,466 - tests.test_registration_form - INFO - Тестирование поля 'Текущий адрес' завершено

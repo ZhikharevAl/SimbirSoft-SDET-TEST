@@ -1,0 +1,5 @@
+INFO     tests.test_registration_form:test_registration_form.py:57 Тестирование поля 'Фамилия' начато
+INFO     tests.test_registration_form:test_registration_form.py:59 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:63 Заполнение поля 'Фамилия' значением Everett
+INFO     tests.test_registration_form:test_registration_form.py:66 Проверка корректности заполнения поля 'Фамилия'
+INFO     tests.test_registration_form:test_registration_form.py:69 Тестирование поля 'Фамилия' завершено

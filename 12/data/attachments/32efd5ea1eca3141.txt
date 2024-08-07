@@ -1,0 +1,14 @@
+2024-08-07 21:43:31,344 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 21:43:31,345 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 21:43:37,488 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Rodney
+2024-08-07 21:43:37,987 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Hampton
+2024-08-07 21:43:38,157 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением jenna53@example.org
+2024-08-07 21:43:38,368 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 21:43:38,454 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 9397767605
+2024-08-07 21:43:38,563 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 21:43:38,860 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 21:43:38,928 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 21:43:41,344 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 21:43:42,065 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 65686 Deanna Ramp
+New Matthew, AR 30725
+2024-08-07 21:43:42,442 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
