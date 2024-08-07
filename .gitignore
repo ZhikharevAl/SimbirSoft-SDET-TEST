@@ -1,3 +1,6 @@
 .idea
 venv
 simbirsoft-sdet.iml
+__pycashe__/
+test.log
+tests/test.log
