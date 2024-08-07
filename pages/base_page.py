@@ -84,3 +84,25 @@ class BasePage:
     def scroll_to_bottom(self):
         self.browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(SCROLL_PAUSE_TIME)
+
+    @allure.step("Плавная прокрутка вниз")
+    def smooth_scroll_to_bottom(self):
+        self.browser.execute_script("""
+        (function smoothScroll(){
+            var currentScroll = document.documentElement.scrollTop ||
+                document.body.scrollTop;
+            var maxScroll =
+            document.documentElement.scrollHeight -
+                document.documentElement.clientHeight;
+            if (currentScroll < maxScroll) {
+                window.requestAnimationFrame(smoothScroll);
+                window.scrollTo(0, currentScroll + (maxScroll - currentScroll) / 8);
+            }
+        })();
+        """)
+        WebDriverWait(self.browser, 30).until(
+            lambda driver: driver.execute_script(
+                "return (window.innerHeight + window.pageYOffset) >= "
+                "document.body.scrollHeight;"
+            )
+        )
