@@ -1,0 +1,5 @@
+2024-08-07 14:13:45,832 - tests.test_registration_form - INFO - Тестирование выбора хобби начато
+2024-08-07 14:13:45,832 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 14:13:46,140 - tests.test_registration_form - INFO - Выбор хобби: ['Sports', 'Music']
+2024-08-07 14:14:59,205 - tests.test_registration_form - INFO - Проверка корректности выбора хобби
+2024-08-07 14:14:59,342 - tests.test_registration_form - INFO - Тестирование выбора хобби завершено

@@ -1,0 +1,5 @@
+INFO     tests.test_registration_form:test_registration_form.py:98 Тестирование выбора пола начато
+INFO     tests.test_registration_form:test_registration_form.py:100 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:103 Выбор пола: Other
+INFO     tests.test_registration_form:test_registration_form.py:106 Проверка корректности выбора пола Other
+INFO     tests.test_registration_form:test_registration_form.py:109 Тестирование выбора пола завершено

@@ -1,0 +1,5 @@
+2024-08-07 14:13:01,952 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 14:13:01,952 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 14:13:37,993 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Jones
+2024-08-07 14:13:38,420 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-08-07 14:13:38,459 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено
