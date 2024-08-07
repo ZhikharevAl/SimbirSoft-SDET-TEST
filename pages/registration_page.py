@@ -209,5 +209,10 @@ class RegistrationPage(BasePage):
     def make_screenshot(self):
         return self.take_screenshot()
 
+    @allure.step("Получение текста модального окна")
     def label_text(self):
         return self.get_text(self.MODAL_CONTENT)
+
+    @allure.step("Сролл вниз браузера")
+    def scroll_to_bottom_page(self):
+        return self.scroll_to_bottom()

@@ -77,3 +77,7 @@ class BasePage:
         return WebDriverWait(self.browser, 10).until(
             EC.element_to_be_clickable(locator)
         )
+
+    @allure.step("Прокрутка вниз до конца страницы")
+    def scroll_to_bottom(self):
+        self.browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
