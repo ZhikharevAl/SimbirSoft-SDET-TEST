@@ -1,0 +1,5 @@
+2024-08-07 22:47:16,697 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 22:47:16,698 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 22:47:23,080 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Silva
+2024-08-07 22:47:23,481 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-08-07 22:47:23,540 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено

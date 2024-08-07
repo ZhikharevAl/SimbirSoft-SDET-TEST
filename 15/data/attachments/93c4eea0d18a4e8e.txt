@@ -1,0 +1,14 @@
+2024-08-07 22:47:16,672 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 22:47:16,672 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 22:47:23,145 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Nathan
+2024-08-07 22:47:23,772 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Mcguire
+2024-08-07 22:47:23,900 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением jonathanwebb@example.com
+2024-08-07 22:47:24,012 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 22:47:24,093 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 4966247452
+2024-08-07 22:47:24,199 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 22:47:24,445 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 22:47:24,584 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 22:47:26,324 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 22:47:27,416 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 847 Kimberly Island
+Port Adam, MD 40742
+2024-08-07 22:47:27,730 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi

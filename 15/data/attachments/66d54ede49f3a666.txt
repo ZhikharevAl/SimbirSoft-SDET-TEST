@@ -1,0 +1,5 @@
+INFO     tests.test_registration_form:test_registration_form.py:37 Тестирование поля 'Имя' начато
+INFO     tests.test_registration_form:test_registration_form.py:39 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:43 Заполнение поля 'Имя' значением Kendra
+INFO     tests.test_registration_form:test_registration_form.py:46 Проверка корректности заполнения поля 'Имя'
+INFO     tests.test_registration_form:test_registration_form.py:49 Тестирование поля 'Имя' завершено

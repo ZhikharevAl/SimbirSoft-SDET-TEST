@@ -1,0 +1,5 @@
+2024-08-07 22:47:24,540 - tests.test_registration_form - INFO - Тестирование поля 'Email' начато
+2024-08-07 22:47:24,540 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 22:47:30,064 - tests.test_registration_form - INFO - Заполнение поля 'Email' значением ewilson@example.com
+2024-08-07 22:47:30,529 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Email'
+2024-08-07 22:47:30,554 - tests.test_registration_form - INFO - Тестирование поля 'Email' завершено

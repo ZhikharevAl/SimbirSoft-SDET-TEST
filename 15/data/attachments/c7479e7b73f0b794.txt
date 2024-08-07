@@ -1,0 +1,5 @@
+INFO     tests.test_registration_form:test_registration_form.py:238 Тестирование поля 'Текущий адрес' начато
+INFO     tests.test_registration_form:test_registration_form.py:240 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:245 Заполнение поля 'Текущий адрес'
+INFO     tests.test_registration_form:test_registration_form.py:248 Проверка корректности заполнения поля 'Текущий адрес'
+INFO     tests.test_registration_form:test_registration_form.py:251 Тестирование поля 'Текущий адрес' завершено

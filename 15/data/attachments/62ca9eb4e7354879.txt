@@ -1,0 +1,5 @@
+2024-08-07 22:48:24,069 - tests.test_registration_form - INFO - Тестирование поля 'Имя' начато
+2024-08-07 22:48:24,069 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 22:48:28,107 - tests.test_registration_form - INFO - Заполнение поля 'Имя' значением Kendra
+2024-08-07 22:48:28,175 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Имя'
+2024-08-07 22:48:28,190 - tests.test_registration_form - INFO - Тестирование поля 'Имя' завершено
