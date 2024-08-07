@@ -127,7 +127,7 @@ class TestRegistrationForm:
             ("Hobbies Sports, Reading", "Хобби"),
             ("Picture Battlestar_Galactica.jpg", "Изображение"),
             ("State and City NCR Delhi", "Штат и город"),
-            (f"Address {person.current_address.replace('\n', ' ')}", "Адрес")
+            ("Address {}".format(person.current_address.replace('\n', ' ')), "Адрес"),
         ]
 
         for content, description in expected_content:
