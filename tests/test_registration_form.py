@@ -170,7 +170,7 @@ class TestRegistrationForm:
             page.open()
         with allure.step("Scroll вниз страницы"):
             logger.info("Scroll вниз страницы")
-            page.scroll_to_bottom_page()
+            page.scroll_to_down()
         project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         file_path = os.path.join(project_root, "images", "Battlestar_Galactica.jpg")
         with allure.step(f"Проверка существования файла {file_path}"):
@@ -268,7 +268,7 @@ class TestRegistrationForm:
             page.open()
         with allure.step("Scroll вниз страницы"):
             logger.info("Scroll вниз страницы")
-            page.scroll_to_bottom_page()
+            page.scroll_to_down()
         with allure.step(f"Выбор штата: {state}"):
             logger.info(f"Выбор штата: {state}")
             page.select_state(state)
