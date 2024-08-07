@@ -1,0 +1,5 @@
+2024-08-07 18:30:58,121 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 18:30:58,122 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 18:31:04,932 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Evans
+2024-08-07 18:31:05,297 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-08-07 18:31:05,319 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено

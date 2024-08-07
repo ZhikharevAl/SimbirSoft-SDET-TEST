@@ -1,0 +1,14 @@
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:43 Начало теста заполнения формы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:46 Открытие страницы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:73 Заполнение поля 'Имя' значением Walter
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:76 Заполнение поля 'Фамилия' значением Wallace
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:79 Заполнение поля 'Email' значением sierra40@example.net
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:83 Выбор пола: Male
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:86 Заполнение поля 'Мобильный телефон' значением 0925585400
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:90 Выбор хобби: ['Sports', 'Reading']
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:95 Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:99 Заполнение поля 'Дата рождения' значением 08-March-1987
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:103 Выбор предметов: ['Maths', 'Computer Science']
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:106 Заполнение поля 'Текущий адрес' значением 696 Stephen Isle Suite 697
+Port Michaelland, MP 63564
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:111 Выбор штата: NCR и города: Delhi
