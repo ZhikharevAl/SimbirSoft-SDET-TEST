@@ -81,3 +81,4 @@ class BasePage:
     @allure.step("Прокрутка вниз до конца страницы")
     def scroll_to_bottom(self):
         self.browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(2)
