@@ -1,0 +1,5 @@
+2024-08-07 20:56:16,385 - tests.test_registration_form - INFO - Тестирование выбора предметов начато
+2024-08-07 20:56:16,391 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 20:56:22,272 - tests.test_registration_form - INFO - Выбор предметов: ['English', 'Chemistry', 'Biology', 'Social Studies', 'Physics']
+2024-08-07 20:56:24,175 - tests.test_registration_form - INFO - Проверка корректности выбора предметов
+2024-08-07 20:56:24,291 - tests.test_registration_form - INFO - Тестирование выбора предметов завершено

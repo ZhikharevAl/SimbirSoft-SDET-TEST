@@ -1,0 +1,5 @@
+2024-08-07 20:56:50,990 - tests.test_registration_form - INFO - Тестирование поля 'Имя' начато
+2024-08-07 20:56:50,990 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 20:56:53,581 - tests.test_registration_form - INFO - Заполнение поля 'Имя' значением Alexandra
+2024-08-07 20:56:53,659 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Имя'
+2024-08-07 20:56:53,738 - tests.test_registration_form - INFO - Тестирование поля 'Имя' завершено
