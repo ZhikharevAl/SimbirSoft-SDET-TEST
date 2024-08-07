@@ -17,6 +17,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Download uBlock Origin
+        run: |
+            wget -q -O /tmp/ublock_origin.zip https://github.com/gorhill/uBlock/releases/download/1.59.0/uBlock0_1.59.0.chromium.zip
+            unzip /tmp/ublock_origin.zip -d /tmp/ublock_origin
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
