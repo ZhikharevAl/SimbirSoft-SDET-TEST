@@ -5,6 +5,8 @@ from selenium.common import TimeoutException
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
+SCROLL_PAUSE_TIME = 0.5
+
 
 class BasePage:
     def __init__(self, browser):
@@ -76,4 +78,31 @@ class BasePage:
     def element_to_be_clickable(self, locator):
         return WebDriverWait(self.browser, 10).until(
             EC.element_to_be_clickable(locator)
+        )
+
+    @allure.step("Прокрутка вниз до конца страницы")
+    def scroll_to_bottom(self):
+        self.browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(SCROLL_PAUSE_TIME)
+
+    @allure.step("Плавная прокрутка вниз")
+    def smooth_scroll_to_bottom(self):
+        self.browser.execute_script("""
+        (function smoothScroll(){
+            var currentScroll = document.documentElement.scrollTop ||
+                document.body.scrollTop;
+            var maxScroll =
+            document.documentElement.scrollHeight -
+                document.documentElement.clientHeight;
+            if (currentScroll < maxScroll) {
+                window.requestAnimationFrame(smoothScroll);
+                window.scrollTo(0, currentScroll + (maxScroll - currentScroll) / 8);
+            }
+        })();
+        """)
+        WebDriverWait(self.browser, 30).until(
+            lambda driver: driver.execute_script(
+                "return (window.innerHeight + window.pageYOffset) >= "
+                "document.body.scrollHeight;"
+            )
         )

@@ -168,6 +168,9 @@ class TestRegistrationForm:
         with allure.step("Открытие страницы регистрации"):
             logger.info("Открытие страницы регистрации")
             page.open()
+        with allure.step("Scroll вниз страницы"):
+            logger.info("Scroll вниз страницы")
+            page.scroll_to_down()
         project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         file_path = os.path.join(project_root, "images", "Battlestar_Galactica.jpg")
         with allure.step(f"Проверка существования файла {file_path}"):
@@ -258,11 +261,14 @@ class TestRegistrationForm:
         ("Haryana", "Karnal"),
         ("Rajasthan", "Jaipur")
     ])
-    def test_state_city(self, page, state, city):
+    def test_state_city(self, page, state, city, browser):
         logger.info(f"Тестирование выбора штата {state} и города {city} начато")
         with allure.step("Открытие страницы регистрации"):
             logger.info("Открытие страницы регистрации")
             page.open()
+        with allure.step("Scroll вниз страницы"):
+            logger.info("Scroll вниз страницы")
+            page.scroll_to_bottom_page()
         with allure.step(f"Выбор штата: {state}"):
             logger.info(f"Выбор штата: {state}")
             page.select_state(state)
