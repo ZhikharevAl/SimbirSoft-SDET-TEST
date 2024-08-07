@@ -1,0 +1,5 @@
+2024-08-07 21:53:09,883 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 21:53:09,884 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 21:53:18,181 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Rios
+2024-08-07 21:53:18,477 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-08-07 21:53:18,504 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено

@@ -1,0 +1,14 @@
+2024-08-07 21:53:09,883 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 21:53:09,884 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 21:53:17,978 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Angela
+2024-08-07 21:53:18,480 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Moore
+2024-08-07 21:53:18,601 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением tonya23@example.org
+2024-08-07 21:53:18,770 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 21:53:18,863 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 8538441641
+2024-08-07 21:53:18,943 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 21:53:19,110 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 21:53:19,224 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 21:53:20,968 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 21:53:21,978 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 175 Smith Knoll Suite 532
+Jamesfort, NY 73310
+2024-08-07 21:53:22,390 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
