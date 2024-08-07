@@ -1,0 +1,14 @@
+2024-08-07 22:08:04,515 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 22:08:04,515 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 22:08:10,075 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Fernando
+2024-08-07 22:08:10,440 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Acevedo
+2024-08-07 22:08:10,645 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением xsmith@example.org
+2024-08-07 22:08:10,963 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 22:08:11,071 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 2794215777
+2024-08-07 22:08:11,260 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 22:08:11,455 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 22:08:11,532 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 22:08:13,486 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 22:08:14,520 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 939 James Club Suite 239
+South Robert, VI 18716
+2024-08-07 22:08:14,824 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
