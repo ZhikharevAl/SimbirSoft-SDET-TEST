@@ -1,0 +1,70 @@
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:43 Начало теста заполнения формы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:46 Открытие страницы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:73 Заполнение поля 'Имя' значением Steven
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:76 Заполнение поля 'Фамилия' значением Abbott
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:79 Заполнение поля 'Email' значением kellyward@example.com
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:83 Выбор пола: Male
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:86 Заполнение поля 'Мобильный телефон' значением 0447595036
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:90 Выбор хобби: ['Sports', 'Reading']
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:95 Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:99 Заполнение поля 'Дата рождения' значением 08-March-1987
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:103 Выбор предметов: ['Maths', 'Computer Science']
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:106 Заполнение поля 'Текущий адрес' значением 14398 Gray Hills Suite 291
+New Brian, VA 25909
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:111 Выбор штата: NCR и города: Delhi
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:43 Начало теста заполнения формы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:46 Открытие страницы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:73 Заполнение поля 'Имя' значением Dillon
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:76 Заполнение поля 'Фамилия' значением Brady
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:79 Заполнение поля 'Email' значением karl76@example.net
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:83 Выбор пола: Male
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:86 Заполнение поля 'Мобильный телефон' значением 6288007064
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:90 Выбор хобби: ['Sports', 'Reading']
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:95 Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:99 Заполнение поля 'Дата рождения' значением 08-March-1987
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:103 Выбор предметов: ['Maths', 'Computer Science']
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:106 Заполнение поля 'Текущий адрес' значением 494 Crystal Extension Suite 658
+Lake Austinfort, AR 91654
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:111 Выбор штата: NCR и города: Delhi
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:43 Начало теста заполнения формы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:46 Открытие страницы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:73 Заполнение поля 'Имя' значением Christina
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:76 Заполнение поля 'Фамилия' значением Taylor
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:79 Заполнение поля 'Email' значением rosekevin@example.org
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:83 Выбор пола: Male
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:86 Заполнение поля 'Мобильный телефон' значением 0427076096
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:90 Выбор хобби: ['Sports', 'Reading']
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:95 Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:99 Заполнение поля 'Дата рождения' значением 08-March-1987
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:103 Выбор предметов: ['Maths', 'Computer Science']
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:106 Заполнение поля 'Текущий адрес' значением 5692 Jill Junctions Suite 124
+Lake Debraton, MH 88830
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:111 Выбор штата: NCR и города: Delhi
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:43 Начало теста заполнения формы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:46 Открытие страницы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:73 Заполнение поля 'Имя' значением David
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:76 Заполнение поля 'Фамилия' значением Johnson
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:79 Заполнение поля 'Email' значением stephen97@example.org
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:83 Выбор пола: Male
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:86 Заполнение поля 'Мобильный телефон' значением 3939232853
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:90 Выбор хобби: ['Sports', 'Reading']
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:95 Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:99 Заполнение поля 'Дата рождения' значением 08-March-1987
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:103 Выбор предметов: ['Maths', 'Computer Science']
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:106 Заполнение поля 'Текущий адрес' значением 23285 Thomas Heights Apt. 223
+Herbertmouth, KS 28620
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:111 Выбор штата: NCR и города: Delhi
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:43 Начало теста заполнения формы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:46 Открытие страницы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:73 Заполнение поля 'Имя' значением Alex
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:76 Заполнение поля 'Фамилия' значением Nolan
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:79 Заполнение поля 'Email' значением kshelton@example.org
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:83 Выбор пола: Male
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:86 Заполнение поля 'Мобильный телефон' значением 7073019886
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:90 Выбор хобби: ['Sports', 'Reading']
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:95 Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:99 Заполнение поля 'Дата рождения' значением 08-March-1987
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:103 Выбор предметов: ['Maths', 'Computer Science']
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:106 Заполнение поля 'Текущий адрес' значением 0566 Antonio Ranch Suite 203
+Brockside, AS 72598
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:111 Выбор штата: NCR и города: Delhi

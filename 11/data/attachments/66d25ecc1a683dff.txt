@@ -1,0 +1,70 @@
+2024-08-07 21:30:21,797 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 21:30:21,797 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 21:30:28,578 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Steven
+2024-08-07 21:30:29,091 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Abbott
+2024-08-07 21:30:29,179 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением kellyward@example.com
+2024-08-07 21:30:29,367 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 21:30:29,474 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 0447595036
+2024-08-07 21:30:29,590 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 21:30:29,717 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 21:30:29,745 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 21:30:31,316 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 21:30:31,953 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 14398 Gray Hills Suite 291
+New Brian, VA 25909
+2024-08-07 21:30:32,457 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
+2024-08-07 21:30:34,846 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 21:30:34,846 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 21:30:40,934 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Dillon
+2024-08-07 21:30:41,464 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Brady
+2024-08-07 21:30:41,607 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением karl76@example.net
+2024-08-07 21:30:41,857 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 21:30:42,080 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 6288007064
+2024-08-07 21:30:42,235 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 21:30:42,447 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 21:30:42,517 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 21:30:44,661 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 21:30:45,394 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 494 Crystal Extension Suite 658
+Lake Austinfort, AR 91654
+2024-08-07 21:30:45,711 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
+2024-08-07 21:30:49,331 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 21:30:49,331 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 21:30:54,379 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Christina
+2024-08-07 21:30:54,826 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Taylor
+2024-08-07 21:30:55,015 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением rosekevin@example.org
+2024-08-07 21:30:55,287 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 21:30:55,417 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 0427076096
+2024-08-07 21:30:55,710 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 21:30:56,174 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 21:30:56,268 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 21:30:58,290 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 21:30:58,971 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 5692 Jill Junctions Suite 124
+Lake Debraton, MH 88830
+2024-08-07 21:30:59,227 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
+2024-08-07 21:31:01,952 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 21:31:01,952 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 21:31:06,741 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением David
+2024-08-07 21:31:07,076 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Johnson
+2024-08-07 21:31:07,235 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением stephen97@example.org
+2024-08-07 21:31:07,459 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 21:31:07,636 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 3939232853
+2024-08-07 21:31:07,945 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 21:31:08,206 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 21:31:08,286 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 21:31:10,124 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 21:31:10,628 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 23285 Thomas Heights Apt. 223
+Herbertmouth, KS 28620
+2024-08-07 21:31:10,776 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
+2024-08-07 21:31:14,415 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 21:31:14,415 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 21:31:18,776 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Alex
+2024-08-07 21:31:19,182 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Nolan
+2024-08-07 21:31:19,302 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением kshelton@example.org
+2024-08-07 21:31:19,482 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 21:31:19,751 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 7073019886
+2024-08-07 21:31:20,032 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 21:31:20,345 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 21:31:20,431 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 21:31:22,169 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 21:31:22,668 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 0566 Antonio Ranch Suite 203
+Brockside, AS 72598
+2024-08-07 21:31:22,816 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi

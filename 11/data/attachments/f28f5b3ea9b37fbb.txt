@@ -1,0 +1,5 @@
+2024-08-07 21:30:21,789 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 21:30:21,789 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 21:30:32,187 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Morton
+2024-08-07 21:30:32,545 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-08-07 21:30:32,572 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено
