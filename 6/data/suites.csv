@@ -1,0 +1,33 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Aug 07 19:46:04 GMT 2024","Wed Aug 07 19:46:04 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора пола","Этот тест проверяет корректность выбора пола в форме регистрации."
+"broken","Wed Aug 07 19:46:06 GMT 2024","Wed Aug 07 19:46:06 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест заполнения поля 'Фамилия'","Этот тест проверяет корректность заполнения поля 'Фамилия' в форме регистрации."
+"broken","Wed Aug 07 19:46:07 GMT 2024","Wed Aug 07 19:46:07 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора хобби","Этот тест проверяет корректность выбора хобби в форме регистрации."
+"broken","Wed Aug 07 19:46:09 GMT 2024","Wed Aug 07 19:46:09 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора штата и города","Этот тест проверяет корректность выбора штата и соответствующего ему города в форме регистрации."
+"broken","Wed Aug 07 19:46:10 GMT 2024","Wed Aug 07 19:46:10 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора штата и города","Этот тест проверяет корректность выбора штата и соответствующего ему города в форме регистрации."
+"broken","Wed Aug 07 19:46:08 GMT 2024","Wed Aug 07 19:46:08 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора предметов","Этот тест проверяет корректность выбора предметов в форме регистрации."
+"broken","Wed Aug 07 19:46:06 GMT 2024","Wed Aug 07 19:46:06 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора хобби","Этот тест проверяет корректность выбора хобби в форме регистрации."
+"broken","Wed Aug 07 19:46:09 GMT 2024","Wed Aug 07 19:46:09 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора хобби","Этот тест проверяет корректность выбора хобби в форме регистрации."
+"broken","Wed Aug 07 19:46:08 GMT 2024","Wed Aug 07 19:46:08 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест заполнения поля 'Email'","Этот тест проверяет корректность заполнения поля 'Email' в форме регистрации."
+"broken","Wed Aug 07 19:46:08 GMT 2024","Wed Aug 07 19:46:08 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора хобби","Этот тест проверяет корректность выбора хобби в форме регистрации."
+"broken","Wed Aug 07 19:46:06 GMT 2024","Wed Aug 07 19:46:06 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора хобби","Этот тест проверяет корректность выбора хобби в форме регистрации."
+"broken","Wed Aug 07 19:46:10 GMT 2024","Wed Aug 07 19:46:10 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора штата и города","Этот тест проверяет корректность выбора штата и соответствующего ему города в форме регистрации."
+"broken","Wed Aug 07 19:46:11 GMT 2024","Wed Aug 07 19:46:11 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора штата и города","Этот тест проверяет корректность выбора штата и соответствующего ему города в форме регистрации."
+"broken","Wed Aug 07 19:46:08 GMT 2024","Wed Aug 07 19:46:08 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора хобби","Этот тест проверяет корректность выбора хобби в форме регистрации."
+"broken","Wed Aug 07 19:46:05 GMT 2024","Wed Aug 07 19:46:05 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест заполнения поля 'Мобильный телефон'","Этот тест проверяет корректность заполнения поля 'Мобильный телефон' в форме регистрации."
+"broken","Wed Aug 07 19:46:07 GMT 2024","Wed Aug 07 19:46:07 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора хобби","Этот тест проверяет корректность выбора хобби в форме регистрации."
+"broken","Wed Aug 07 19:46:06 GMT 2024","Wed Aug 07 19:46:06 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест заполнения поля 'Имя'","Этот тест проверяет корректность заполнения поля 'Имя' в форме регистрации."
+"broken","Wed Aug 07 19:46:05 GMT 2024","Wed Aug 07 19:46:05 GMT 2024","0","tests","test_filling_out_the_form","TestRegistrationForm","","","Тест заполнения и отправки формы регистрации","
+    Этот тест выполняет следующие шаги:
+    1. Открывает страницу регистрации
+    2. Заполняет все поля формы
+    3. Отправляет форму
+    4. Проверяет успешность отправки
+    5. Верифицирует корректность отображения всех введенных данных в модальном окне
+    "
+"broken","Wed Aug 07 19:46:09 GMT 2024","Wed Aug 07 19:46:09 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора предметов","Этот тест проверяет корректность выбора предметов в форме регистрации."
+"broken","Wed Aug 07 19:46:06 GMT 2024","Wed Aug 07 19:46:06 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора пола","Этот тест проверяет корректность выбора пола в форме регистрации."
+"broken","Wed Aug 07 19:46:10 GMT 2024","Wed Aug 07 19:46:10 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест заполнения поля 'Текущий адрес'","Этот тест проверяет корректность заполнения поля 'Текущий адрес' в форме регистрации."
+"broken","Wed Aug 07 19:46:08 GMT 2024","Wed Aug 07 19:46:08 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест заполнения поля 'Дата рождения'","Этот тест проверяет корректность заполнения поля 'Дата рождения' в форме регистрации."
+"broken","Wed Aug 07 19:46:04 GMT 2024","Wed Aug 07 19:46:04 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора пола","Этот тест проверяет корректность выбора пола в форме регистрации."
+"broken","Wed Aug 07 19:46:10 GMT 2024","Wed Aug 07 19:46:10 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест выбора предметов","Этот тест проверяет корректность выбора предметов в форме регистрации."
+"broken","Wed Aug 07 19:46:08 GMT 2024","Wed Aug 07 19:46:08 GMT 2024","0","tests","test_registration_form","TestRegistrationForm","","","Тест загрузки изображения","Этот тест проверяет корректность загрузки изображения в форме регистрации."
