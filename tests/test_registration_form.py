@@ -268,7 +268,7 @@ class TestRegistrationForm:
             page.open()
         with allure.step("Scroll вниз страницы"):
             logger.info("Scroll вниз страницы")
-            page.scroll_to_down()
+            page.scroll_to_bottom_page()
         with allure.step(f"Выбор штата: {state}"):
             logger.info(f"Выбор штата: {state}")
             page.select_state(state)
