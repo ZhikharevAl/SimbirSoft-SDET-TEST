@@ -1,0 +1,5 @@
+2024-08-07 17:27:47,024 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 17:27:47,024 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 17:27:58,654 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Lopez
+2024-08-07 17:27:58,723 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-08-07 17:27:58,757 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено
