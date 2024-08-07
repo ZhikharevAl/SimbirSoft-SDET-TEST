@@ -7,12 +7,6 @@ jobs:
   test:
     runs-on: ubuntu-latest
 
-    services:
-      chrome:
-        image: selenium/standalone-chrome:latest
-        ports:
-          - 4444:4444
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -58,6 +52,7 @@ jobs:
           allure_results: allure-results
           allure_history: allure-history
           keep_reports: 20
+
       - name: Deploy report to Github Pages
         if: always()
         uses: peaceiris/actions-gh-pages@v2
