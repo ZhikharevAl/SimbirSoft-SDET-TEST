@@ -1,0 +1,5 @@
+2024-08-07 23:29:24,542 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 23:29:24,543 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 23:29:30,555 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Jackson
+2024-08-07 23:29:31,000 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-08-07 23:29:31,017 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено

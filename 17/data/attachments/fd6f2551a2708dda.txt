@@ -1,0 +1,5 @@
+INFO     tests.test_registration_form:test_registration_form.py:220 Тестирование выбора предметов начато
+INFO     tests.test_registration_form:test_registration_form.py:222 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:225 Выбор предметов: ['Maths']
+INFO     tests.test_registration_form:test_registration_form.py:228 Проверка корректности выбора предметов
+INFO     tests.test_registration_form:test_registration_form.py:230 Тестирование выбора предметов завершено

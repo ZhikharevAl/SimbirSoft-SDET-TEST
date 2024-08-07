@@ -1,0 +1,14 @@
+2024-08-07 23:29:24,540 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 23:29:24,541 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 23:29:33,095 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Robert
+2024-08-07 23:29:33,440 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Gibson
+2024-08-07 23:29:33,705 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением patriciamurphy@example.org
+2024-08-07 23:29:33,928 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 23:29:34,108 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 5080368778
+2024-08-07 23:29:34,311 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 23:29:34,645 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 23:29:34,792 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 23:29:37,613 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 23:29:38,332 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 6555 Deanna Junctions
+West Kellyview, PR 01275
+2024-08-07 23:29:38,628 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi

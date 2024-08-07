@@ -1,0 +1,5 @@
+INFO     tests.test_registration_form:test_registration_form.py:194 Тестирование поля 'Дата рождения' начато
+INFO     tests.test_registration_form:test_registration_form.py:196 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:200 Заполнение поля 'Дата рождения' значением 08-March-1987
+INFO     tests.test_registration_form:test_registration_form.py:204 Проверка корректности заполнения поля 'Дата рождения'
+INFO     tests.test_registration_form:test_registration_form.py:207 Тестирование поля 'Дата рождения' завершено

@@ -1,0 +1,5 @@
+2024-08-07 23:40:20,369 - tests.test_registration_form - INFO - Тестирование поля 'Имя' начато
+2024-08-07 23:40:20,369 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 23:40:23,631 - tests.test_registration_form - INFO - Заполнение поля 'Имя' значением Catherine
+2024-08-07 23:40:23,695 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Имя'
+2024-08-07 23:40:23,730 - tests.test_registration_form - INFO - Тестирование поля 'Имя' завершено

@@ -1,0 +1,5 @@
+2024-08-07 23:29:59,684 - tests.test_registration_form - INFO - Тестирование выбора предметов начато
+2024-08-07 23:29:59,684 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 23:30:03,972 - tests.test_registration_form - INFO - Выбор предметов: ['Maths']
+2024-08-07 23:30:04,397 - tests.test_registration_form - INFO - Проверка корректности выбора предметов
+2024-08-07 23:30:04,417 - tests.test_registration_form - INFO - Тестирование выбора предметов завершено
