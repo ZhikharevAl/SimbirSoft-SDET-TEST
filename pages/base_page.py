@@ -5,6 +5,8 @@ from selenium.common import TimeoutException
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
+SCROLL_PAUSE_TIME = 0.5
+
 
 class BasePage:
     def __init__(self, browser):
@@ -81,3 +83,4 @@ class BasePage:
     @allure.step("Прокрутка вниз до конца страницы")
     def scroll_to_bottom(self):
         self.browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(SCROLL_PAUSE_TIME)
