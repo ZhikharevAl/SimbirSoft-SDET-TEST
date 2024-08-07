@@ -1,0 +1,5 @@
+2024-08-07 23:12:29,136 - tests.test_registration_form - INFO - Тестирование поля 'Имя' начато
+2024-08-07 23:12:29,137 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 23:12:31,451 - tests.test_registration_form - INFO - Заполнение поля 'Имя' значением Brittany
+2024-08-07 23:12:31,627 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Имя'
+2024-08-07 23:12:31,646 - tests.test_registration_form - INFO - Тестирование поля 'Имя' завершено

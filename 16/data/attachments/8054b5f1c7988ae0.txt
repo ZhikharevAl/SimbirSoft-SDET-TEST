@@ -1,0 +1,9 @@
+2024-08-07 23:11:56,068 - tests.test_registration_form - INFO - Тестирование загрузки изображения начато
+2024-08-07 23:11:56,069 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 23:12:00,815 - tests.test_registration_form - INFO - Scroll вниз страницы
+2024-08-07 23:12:31,960 - tests.test_registration_form - INFO - Тестирование загрузки изображения начато
+2024-08-07 23:12:31,960 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 23:12:33,196 - tests.test_registration_form - INFO - Scroll вниз страницы
+2024-08-07 23:13:04,001 - tests.test_registration_form - INFO - Тестирование загрузки изображения начато
+2024-08-07 23:13:04,001 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 23:13:06,460 - tests.test_registration_form - INFO - Scroll вниз страницы

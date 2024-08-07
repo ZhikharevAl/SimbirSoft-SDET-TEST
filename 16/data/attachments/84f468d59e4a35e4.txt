@@ -1,0 +1,12 @@
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:172 Scroll вниз страницы
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:172 Scroll вниз страницы
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:172 Scroll вниз страницы
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:172 Scroll вниз страницы

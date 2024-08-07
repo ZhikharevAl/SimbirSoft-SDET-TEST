@@ -1,0 +1,5 @@
+2024-08-07 23:11:26,197 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 23:11:26,197 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 23:11:37,758 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Martinez
+2024-08-07 23:11:38,108 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-08-07 23:11:38,168 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено
