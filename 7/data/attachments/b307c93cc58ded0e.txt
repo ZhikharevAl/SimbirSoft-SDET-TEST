@@ -1,0 +1,5 @@
+2024-08-07 19:52:35,175 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 19:52:35,175 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 19:52:41,145 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Green
+2024-08-07 19:52:41,552 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-08-07 19:52:41,571 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено

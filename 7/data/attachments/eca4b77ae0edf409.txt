@@ -1,0 +1,5 @@
+2024-08-07 19:55:20,775 - tests.test_registration_form - INFO - Тестирование выбора предметов начато
+2024-08-07 19:55:20,776 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 19:55:23,866 - tests.test_registration_form - INFO - Выбор предметов: ['Computer Science']
+2024-08-07 19:55:24,109 - tests.test_registration_form - INFO - Проверка корректности выбора предметов
+2024-08-07 19:55:24,131 - tests.test_registration_form - INFO - Тестирование выбора предметов завершено

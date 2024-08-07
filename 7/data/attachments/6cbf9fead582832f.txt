@@ -1,0 +1,2 @@
+INFO     tests.test_registration_form:test_registration_form.py:98 Тестирование выбора пола начато
+INFO     tests.test_registration_form:test_registration_form.py:100 Открытие страницы регистрации

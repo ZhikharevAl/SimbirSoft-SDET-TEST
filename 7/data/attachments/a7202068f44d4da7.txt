@@ -1,0 +1,5 @@
+2024-08-07 19:53:43,516 - tests.test_registration_form - INFO - Тестирование поля 'Имя' начато
+2024-08-07 19:53:43,516 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 19:53:46,322 - tests.test_registration_form - INFO - Заполнение поля 'Имя' значением Olivia
+2024-08-07 19:53:46,428 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Имя'
+2024-08-07 19:53:46,449 - tests.test_registration_form - INFO - Тестирование поля 'Имя' завершено

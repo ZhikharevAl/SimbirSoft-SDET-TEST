@@ -1,0 +1,15 @@
+2024-08-07 19:55:59,254 - tests.test_registration_form - INFO - Тестирование выбора штата Rajasthan и города Jaipur начато
+2024-08-07 19:55:59,255 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 19:56:02,694 - tests.test_registration_form - INFO - Выбор штата: Rajasthan
+2024-08-07 19:56:04,701 - tests.test_registration_form - INFO - Тестирование выбора штата Rajasthan и города Jaipur начато
+2024-08-07 19:56:04,701 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 19:56:09,481 - tests.test_registration_form - INFO - Выбор штата: Rajasthan
+2024-08-07 19:56:11,294 - tests.test_registration_form - INFO - Тестирование выбора штата Rajasthan и города Jaipur начато
+2024-08-07 19:56:11,295 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 19:56:15,052 - tests.test_registration_form - INFO - Выбор штата: Rajasthan
+2024-08-07 19:56:16,843 - tests.test_registration_form - INFO - Тестирование выбора штата Rajasthan и города Jaipur начато
+2024-08-07 19:56:16,843 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 19:56:20,193 - tests.test_registration_form - INFO - Выбор штата: Rajasthan
+2024-08-07 19:56:21,928 - tests.test_registration_form - INFO - Тестирование выбора штата Rajasthan и города Jaipur начато
+2024-08-07 19:56:21,928 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 19:56:25,169 - tests.test_registration_form - INFO - Выбор штата: Rajasthan
