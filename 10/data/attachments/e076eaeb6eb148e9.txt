@@ -1,0 +1,8 @@
+INFO     tests.test_registration_form:test_registration_form.py:262 Тестирование выбора штата NCR и города Delhi начато
+INFO     tests.test_registration_form:test_registration_form.py:264 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:267 Scroll вниз страницы
+INFO     tests.test_registration_form:test_registration_form.py:270 Выбор штата: NCR
+INFO     tests.test_registration_form:test_registration_form.py:273 Выбор города: Delhi
+INFO     tests.test_registration_form:test_registration_form.py:276 Проверка корректности выбора штата NCR
+INFO     tests.test_registration_form:test_registration_form.py:280 Проверка корректности выбора города Delhi
+INFO     tests.test_registration_form:test_registration_form.py:283 Тестирование выбора штата NCR и города Delhi завершено

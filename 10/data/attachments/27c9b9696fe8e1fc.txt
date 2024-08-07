@@ -1,0 +1,5 @@
+2024-08-07 21:20:16,300 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 21:20:16,300 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 21:20:22,691 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Friedman
+2024-08-07 21:20:23,083 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-08-07 21:20:23,111 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено

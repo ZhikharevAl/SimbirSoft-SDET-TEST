@@ -1,0 +1,14 @@
+2024-08-07 21:20:16,300 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 21:20:16,300 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 21:20:22,643 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Edwin
+2024-08-07 21:20:23,081 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Martin
+2024-08-07 21:20:23,240 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением ayalarichard@example.net
+2024-08-07 21:20:23,409 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 21:20:23,491 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 4673876424
+2024-08-07 21:20:23,566 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 21:20:23,834 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 21:20:23,940 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 21:20:25,712 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 21:20:26,726 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением PSC 3888, Box 2462
+APO AP 07859
+2024-08-07 21:20:27,105 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi

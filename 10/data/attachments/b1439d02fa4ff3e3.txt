@@ -1,0 +1,8 @@
+2024-08-07 21:21:02,090 - tests.test_registration_form - INFO - Тестирование выбора штата NCR и города Delhi начато
+2024-08-07 21:21:02,090 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 21:21:07,191 - tests.test_registration_form - INFO - Scroll вниз страницы
+2024-08-07 21:21:09,206 - tests.test_registration_form - INFO - Выбор штата: NCR
+2024-08-07 21:21:09,416 - tests.test_registration_form - INFO - Выбор города: Delhi
+2024-08-07 21:21:09,536 - tests.test_registration_form - INFO - Проверка корректности выбора штата NCR
+2024-08-07 21:21:09,576 - tests.test_registration_form - INFO - Проверка корректности выбора города Delhi
+2024-08-07 21:21:09,609 - tests.test_registration_form - INFO - Тестирование выбора штата NCR и города Delhi завершено
