@@ -1,0 +1,5 @@
+INFO     tests.test_registration_form:test_registration_form.py:117 Тестирование поля 'Мобильный телефон' начато
+INFO     tests.test_registration_form:test_registration_form.py:119 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:124 Заполнение поля 'Мобильный телефон' значением 7951851546
+INFO     tests.test_registration_form:test_registration_form.py:128 Проверка корректности заполнения поля 'Мобильный телефон'
+INFO     tests.test_registration_form:test_registration_form.py:131 Тестирование поля 'Мобильный телефон' завершено
