@@ -12,6 +12,9 @@ def browser():
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
 
+    chrome_options.add_argument("--disable-popup-blocking")
+    chrome_options.add_extension("/tmp/ublock_origin/uBlock0.chromium")
+
     driver = webdriver.Chrome(options=chrome_options)
     driver.implicitly_wait(10)
     yield driver
