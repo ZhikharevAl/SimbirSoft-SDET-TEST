@@ -213,7 +213,7 @@ class RegistrationPage(BasePage):
     def label_text(self):
         return self.get_text(self.MODAL_CONTENT)
 
-    @allure.step("Сролл вниз браузера")
+    @allure.step("Scroll вниз браузера")
     def scroll_to_bottom_page(self):
         return self.scroll_to_bottom()
 
