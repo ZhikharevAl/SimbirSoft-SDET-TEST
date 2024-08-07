@@ -1,0 +1,7 @@
+2024-08-07 15:59:09,354 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 15:59:09,356 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 16:05:10,807 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 16:05:10,808 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 16:05:26,913 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Vazquez
+2024-08-07 16:05:27,175 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-08-07 16:05:27,220 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено

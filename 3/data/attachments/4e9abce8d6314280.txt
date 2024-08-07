@@ -1,0 +1,2 @@
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:43 Начало теста заполнения формы регистрации
+INFO     tests.test_filling_out_the_form:test_filling_out_the_form.py:46 Открытие страницы регистрации

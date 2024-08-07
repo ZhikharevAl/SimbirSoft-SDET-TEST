@@ -1,0 +1,10 @@
+2024-08-07 16:05:59,068 - tests.test_registration_form - INFO - Тестирование загрузки изображения начато
+2024-08-07 16:05:59,068 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 16:06:14,941 - tests.test_registration_form - INFO - Проверка существования файла /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 16:06:14,941 - tests.test_registration_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 16:06:14,982 - tests.test_registration_form - INFO - Проверка корректности загрузки изображения
+2024-08-07 16:06:15,590 - tests.test_registration_form - INFO - Тестирование загрузки изображения начато
+2024-08-07 16:06:15,590 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 16:06:17,439 - tests.test_registration_form - INFO - Проверка существования файла /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 16:06:17,439 - tests.test_registration_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 16:06:19,361 - tests.test_registration_form - INFO - Проверка корректности загрузки изображения

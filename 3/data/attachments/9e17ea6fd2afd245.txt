@@ -1,0 +1,2 @@
+2024-08-07 15:59:09,355 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 15:59:09,356 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации

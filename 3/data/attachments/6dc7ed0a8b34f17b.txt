@@ -1,0 +1,2 @@
+2024-08-07 15:59:09,354 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 15:59:09,356 - tests.test_registration_form - INFO - Открытие страницы регистрации

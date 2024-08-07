@@ -1,0 +1,16 @@
+2024-08-07 15:59:09,355 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 15:59:09,356 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 16:05:10,811 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 16:05:10,811 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 16:05:26,374 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Sabrina
+2024-08-07 16:05:26,640 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Thomas
+2024-08-07 16:05:26,698 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением browndanielle@example.net
+2024-08-07 16:05:26,793 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 16:05:26,883 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 2097346696
+2024-08-07 16:05:26,994 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 16:05:27,306 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 16:05:27,419 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 16:05:29,835 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 16:05:31,319 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 8055 Williams Forks Suite 570
+North Mark, MI 87952
+2024-08-07 16:05:31,787 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi

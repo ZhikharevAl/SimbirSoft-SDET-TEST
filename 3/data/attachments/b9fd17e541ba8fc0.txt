@@ -1,0 +1,2 @@
+INFO     tests.test_registration_form:test_registration_form.py:57 Тестирование поля 'Фамилия' начато
+INFO     tests.test_registration_form:test_registration_form.py:59 Открытие страницы регистрации
