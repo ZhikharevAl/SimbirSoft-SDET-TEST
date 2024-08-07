@@ -1,0 +1,5 @@
+INFO     tests.test_registration_form:test_registration_form.py:77 Тестирование поля 'Email' начато
+INFO     tests.test_registration_form:test_registration_form.py:79 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:83 Заполнение поля 'Email' значением kfrye@example.com
+INFO     tests.test_registration_form:test_registration_form.py:86 Проверка корректности заполнения поля 'Email'
+INFO     tests.test_registration_form:test_registration_form.py:89 Тестирование поля 'Email' завершено

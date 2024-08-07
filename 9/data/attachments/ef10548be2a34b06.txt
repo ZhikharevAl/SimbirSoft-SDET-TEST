@@ -1,0 +1,25 @@
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:174 Проверка существования файла /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_registration_form:test_registration_form.py:177 Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_registration_form:test_registration_form.py:180 Проверка корректности загрузки изображения
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:174 Проверка существования файла /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_registration_form:test_registration_form.py:177 Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_registration_form:test_registration_form.py:180 Проверка корректности загрузки изображения
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:174 Проверка существования файла /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_registration_form:test_registration_form.py:177 Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_registration_form:test_registration_form.py:180 Проверка корректности загрузки изображения
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:174 Проверка существования файла /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_registration_form:test_registration_form.py:177 Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_registration_form:test_registration_form.py:180 Проверка корректности загрузки изображения
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:174 Проверка существования файла /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_registration_form:test_registration_form.py:177 Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+INFO     tests.test_registration_form:test_registration_form.py:180 Проверка корректности загрузки изображения

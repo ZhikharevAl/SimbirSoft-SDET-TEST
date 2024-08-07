@@ -1,0 +1,8 @@
+2024-08-07 21:06:49,034 - tests.test_registration_form - INFO - Тестирование выбора штата Uttar Pradesh и города Lucknow начато
+2024-08-07 21:06:49,035 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 21:06:54,558 - tests.test_registration_form - INFO - Scroll вниз страницы
+2024-08-07 21:06:56,578 - tests.test_registration_form - INFO - Выбор штата: Uttar Pradesh
+2024-08-07 21:06:57,154 - tests.test_registration_form - INFO - Выбор города: Lucknow
+2024-08-07 21:06:57,503 - tests.test_registration_form - INFO - Проверка корректности выбора штата Uttar Pradesh
+2024-08-07 21:06:57,573 - tests.test_registration_form - INFO - Проверка корректности выбора города Lucknow
+2024-08-07 21:06:57,605 - tests.test_registration_form - INFO - Тестирование выбора штата Uttar Pradesh и города Lucknow завершено

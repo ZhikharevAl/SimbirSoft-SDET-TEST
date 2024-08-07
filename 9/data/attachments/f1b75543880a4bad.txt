@@ -1,0 +1,14 @@
+2024-08-07 21:05:57,463 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 21:05:57,464 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 21:06:06,462 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Steven
+2024-08-07 21:06:06,906 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Sanders
+2024-08-07 21:06:07,159 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением cnorman@example.net
+2024-08-07 21:06:07,312 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 21:06:07,432 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 8273286308
+2024-08-07 21:06:07,525 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 21:06:07,716 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 21:06:07,782 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 21:06:09,716 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 21:06:10,556 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 0906 James Shore
+Smithmouth, AK 84509
+2024-08-07 21:06:10,739 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
