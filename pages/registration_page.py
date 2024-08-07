@@ -216,3 +216,7 @@ class RegistrationPage(BasePage):
     @allure.step("Сролл вниз браузера")
     def scroll_to_bottom_page(self):
         return self.scroll_to_bottom()
+
+    @allure.step("Плавная прокрутка страницы")
+    def scroll_to_down(self):
+        return self.smooth_scroll_to_bottom()
