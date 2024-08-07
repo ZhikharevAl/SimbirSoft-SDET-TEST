@@ -59,6 +59,7 @@ https://github.com/user-attachments/assets/9432cb62-16de-4f6a-aeb9-c36f963e403f
 ```bash
 allure serve ./allure-results
 ```
+![Screenshot 2024-08-07 144931](https://github.com/user-attachments/assets/5020df27-7a55-4646-ae47-6e75a2166333)
 
 ## Лицензия
 
