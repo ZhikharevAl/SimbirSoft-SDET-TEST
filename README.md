@@ -62,6 +62,7 @@ allure serve ./allure-results
 ![Screenshot 2024-08-07 144931](https://github.com/user-attachments/assets/5020df27-7a55-4646-ae47-6e75a2166333)
 
 ### История запусков
+![Screenshot 2024-08-08 030328](https://github.com/user-attachments/assets/6c8bf452-f48b-4178-8e4b-0511335c9472)
 
 ## Лицензия
 
