@@ -1,0 +1,2 @@
+2024-08-07 23:50:46,855 - tests.test_registration_form - INFO - Тестирование выбора пола начато
+2024-08-07 23:50:46,855 - tests.test_registration_form - INFO - Открытие страницы регистрации

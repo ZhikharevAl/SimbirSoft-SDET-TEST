@@ -1,0 +1,5 @@
+2024-08-07 23:50:46,838 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-08-07 23:50:46,839 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-08-07 23:50:52,793 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Horton
+2024-08-07 23:50:53,090 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-08-07 23:50:53,122 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено

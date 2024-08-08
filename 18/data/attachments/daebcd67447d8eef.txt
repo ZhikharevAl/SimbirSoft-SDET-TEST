@@ -1,0 +1,14 @@
+2024-08-07 23:50:46,854 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 23:50:46,854 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 23:50:54,571 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Shaun
+2024-08-07 23:50:54,639 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением White
+2024-08-07 23:50:54,787 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением kristine84@example.org
+2024-08-07 23:50:54,909 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 23:50:54,977 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 6922658881
+2024-08-07 23:50:55,150 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 23:50:55,359 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 23:50:55,434 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 23:50:57,620 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 23:50:58,421 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 78645 Jones Views Apt. 909
+Christineview, SD 56692
+2024-08-07 23:50:58,624 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi

@@ -1,0 +1,56 @@
+2024-08-07 23:50:46,854 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 23:50:46,854 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 23:50:54,571 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Shaun
+2024-08-07 23:50:54,639 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением White
+2024-08-07 23:50:54,787 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением kristine84@example.org
+2024-08-07 23:50:54,909 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 23:50:54,977 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 6922658881
+2024-08-07 23:50:55,150 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 23:50:55,359 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 23:50:55,434 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 23:50:57,620 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 23:50:58,421 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 78645 Jones Views Apt. 909
+Christineview, SD 56692
+2024-08-07 23:50:58,624 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
+2024-08-07 23:51:01,203 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 23:51:01,203 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 23:51:07,365 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Teresa
+2024-08-07 23:51:07,496 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Combs
+2024-08-07 23:51:07,633 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением christine09@example.org
+2024-08-07 23:51:07,733 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 23:51:07,821 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 2270195547
+2024-08-07 23:51:07,932 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 23:51:08,133 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 23:51:08,234 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 23:51:10,107 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 23:51:10,891 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением PSC 1749, Box 4927
+APO AA 06057
+2024-08-07 23:51:11,061 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
+2024-08-07 23:51:13,286 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 23:51:13,286 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 23:51:18,475 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Dennis
+2024-08-07 23:51:18,847 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Clark
+2024-08-07 23:51:18,991 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением joseph35@example.net
+2024-08-07 23:51:19,129 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 23:51:19,203 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 4238174329
+2024-08-07 23:51:19,304 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 23:51:19,510 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 23:51:19,557 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 23:51:21,629 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 23:51:22,166 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 61921 George Port
+Jessicamouth, DE 13191
+2024-08-07 23:51:22,322 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
+2024-08-07 23:51:24,039 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-08-07 23:51:24,040 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-08-07 23:51:28,072 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением William
+2024-08-07 23:51:28,134 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Adams
+2024-08-07 23:51:28,234 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением sarah36@example.org
+2024-08-07 23:51:28,313 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-08-07 23:51:28,361 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 0784620658
+2024-08-07 23:51:28,412 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-08-07 23:51:28,493 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-08-07 23:51:28,525 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-08-07 23:51:29,337 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-08-07 23:51:29,667 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 4343 Marshall Spur Apt. 836
+Cunninghamton, FL 35958
+2024-08-07 23:51:29,802 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi

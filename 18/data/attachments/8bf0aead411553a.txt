@@ -1,0 +1,8 @@
+INFO     tests.test_registration_form:test_registration_form.py:265 Тестирование выбора штата Rajasthan и города Jaipur начато
+INFO     tests.test_registration_form:test_registration_form.py:267 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:270 Scroll вниз страницы
+INFO     tests.test_registration_form:test_registration_form.py:273 Выбор штата: Rajasthan
+INFO     tests.test_registration_form:test_registration_form.py:276 Выбор города: Jaipur
+INFO     tests.test_registration_form:test_registration_form.py:279 Проверка корректности выбора штата Rajasthan
+INFO     tests.test_registration_form:test_registration_form.py:283 Проверка корректности выбора города Jaipur
+INFO     tests.test_registration_form:test_registration_form.py:286 Тестирование выбора штата Rajasthan и города Jaipur завершено
