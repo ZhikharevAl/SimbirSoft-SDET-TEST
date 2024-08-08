@@ -61,6 +61,8 @@ allure serve ./allure-results
 ```
 ![Screenshot 2024-08-07 144931](https://github.com/user-attachments/assets/5020df27-7a55-4646-ae47-6e75a2166333)
 
+### История запусков
+
 ## Лицензия
 
 Этот проект лицензирован под лицензией MIT. Подробности смотрите в файле [LICENSE](LICENSE.md)
