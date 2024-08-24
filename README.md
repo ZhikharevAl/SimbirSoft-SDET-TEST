@@ -71,7 +71,7 @@ allure serve ./allure-results
 
 ## Ссылки
 
-Этот же проект на Kotlin с использованием Playwright находится в стадии разработки. Вы можете следить за его прогрессом по следующей ссылке: [Проект на Kotlin с Playwright](https://github.com/ZhikharevAl/demoQAPlaywright).
+Аналогичный проект, реализованный на языке программирования Kotlin с применением инструментария Playwright, доступен по нижеследующей гиперссылке: [Проект на Kotlin с Playwright](https://github.com/ZhikharevAl/demoQAPlaywright).
 
 ## Лицензия
 
