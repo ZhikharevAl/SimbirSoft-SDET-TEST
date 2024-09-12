@@ -1,0 +1,3 @@
+2024-09-12 22:50:02,164 - tests.test_registration_form - INFO - Тестирование выбора хобби начато
+2024-09-12 22:50:02,164 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 22:50:07,351 - tests.test_registration_form - INFO - Выбор хобби: ['Reading']

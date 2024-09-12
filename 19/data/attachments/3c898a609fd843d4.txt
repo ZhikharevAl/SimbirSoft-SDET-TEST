@@ -1,0 +1,5 @@
+2024-09-12 22:49:42,552 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-09-12 22:49:42,552 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 22:49:49,682 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Flynn
+2024-09-12 22:49:49,960 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-09-12 22:49:49,978 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено

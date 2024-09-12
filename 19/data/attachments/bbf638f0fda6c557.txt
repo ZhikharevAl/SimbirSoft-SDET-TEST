@@ -1,0 +1,16 @@
+WARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:135 The chromedriver version (127.0.6533.119) detected in PATH at /opt/hostedtoolcache/setup-chrome/chromedriver/127.0.6533.119/x64/chromedriver might not be compatible with the detected chrome version (128.0.6613.119); currently, chromedriver 128.0.6613.137 is recommended for chrome 128.*, so it is advised to delete the driver in PATH and retry
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:172 Scroll вниз страницы
+WARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:135 The chromedriver version (127.0.6533.119) detected in PATH at /opt/hostedtoolcache/setup-chrome/chromedriver/127.0.6533.119/x64/chromedriver might not be compatible with the detected chrome version (128.0.6613.119); currently, chromedriver 128.0.6613.137 is recommended for chrome 128.*, so it is advised to delete the driver in PATH and retry
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:172 Scroll вниз страницы
+WARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:135 The chromedriver version (127.0.6533.119) detected in PATH at /opt/hostedtoolcache/setup-chrome/chromedriver/127.0.6533.119/x64/chromedriver might not be compatible with the detected chrome version (128.0.6613.119); currently, chromedriver 128.0.6613.137 is recommended for chrome 128.*, so it is advised to delete the driver in PATH and retry
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:172 Scroll вниз страницы
+WARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:135 The chromedriver version (127.0.6533.119) detected in PATH at /opt/hostedtoolcache/setup-chrome/chromedriver/127.0.6533.119/x64/chromedriver might not be compatible with the detected chrome version (128.0.6613.119); currently, chromedriver 128.0.6613.137 is recommended for chrome 128.*, so it is advised to delete the driver in PATH and retry
+INFO     tests.test_registration_form:test_registration_form.py:167 Тестирование загрузки изображения начато
+INFO     tests.test_registration_form:test_registration_form.py:169 Открытие страницы регистрации
+INFO     tests.test_registration_form:test_registration_form.py:172 Scroll вниз страницы

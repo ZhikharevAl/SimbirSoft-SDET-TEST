@@ -1,0 +1,22 @@
+2024-09-12 22:49:42,548 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-09-12 22:49:42,549 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-09-12 22:49:54,058 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением James
+2024-09-12 22:49:54,505 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Clarke
+2024-09-12 22:49:54,741 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением petersshannon@example.org
+2024-09-12 22:49:54,913 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-09-12 22:49:54,989 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 8274016830
+2024-09-12 22:49:55,115 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-09-12 22:49:57,131 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-09-12 22:49:57,132 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-09-12 22:49:59,582 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Jessica
+2024-09-12 22:50:01,401 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Christensen
+2024-09-12 22:50:01,957 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением angela73@example.com
+2024-09-12 22:50:02,400 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-09-12 22:50:02,544 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 7926349701
+2024-09-12 22:50:02,661 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-09-12 22:50:02,831 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-09-12 22:50:02,896 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-09-12 22:50:05,095 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-09-12 22:50:05,918 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 97547 Nicole Isle Apt. 565
+South Joseph, ID 36891
+2024-09-12 22:50:06,212 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi

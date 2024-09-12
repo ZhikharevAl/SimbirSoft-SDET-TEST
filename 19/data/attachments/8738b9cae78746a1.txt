@@ -1,0 +1,15 @@
+2024-09-12 22:50:31,186 - tests.test_registration_form - INFO - Тестирование выбора хобби начато
+2024-09-12 22:50:31,187 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 22:50:35,411 - tests.test_registration_form - INFO - Выбор хобби: ['Reading', 'Music']
+2024-09-12 22:50:37,683 - tests.test_registration_form - INFO - Тестирование выбора хобби начато
+2024-09-12 22:50:37,684 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 22:50:41,077 - tests.test_registration_form - INFO - Выбор хобби: ['Reading', 'Music']
+2024-09-12 22:50:42,934 - tests.test_registration_form - INFO - Тестирование выбора хобби начато
+2024-09-12 22:50:42,934 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 22:50:46,352 - tests.test_registration_form - INFO - Выбор хобби: ['Reading', 'Music']
+2024-09-12 22:50:48,648 - tests.test_registration_form - INFO - Тестирование выбора хобби начато
+2024-09-12 22:50:48,648 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 22:50:53,095 - tests.test_registration_form - INFO - Выбор хобби: ['Reading', 'Music']
+2024-09-12 22:50:56,781 - tests.test_registration_form - INFO - Тестирование выбора хобби начато
+2024-09-12 22:50:56,781 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 22:51:00,675 - tests.test_registration_form - INFO - Выбор хобби: ['Reading', 'Music']

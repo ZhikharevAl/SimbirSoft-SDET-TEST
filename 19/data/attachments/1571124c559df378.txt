@@ -1,0 +1,8 @@
+2024-09-12 22:49:42,548 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-09-12 22:49:42,549 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-09-12 22:49:54,058 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением James
+2024-09-12 22:49:54,505 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Clarke
+2024-09-12 22:49:54,741 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением petersshannon@example.org
+2024-09-12 22:49:54,913 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-09-12 22:49:54,989 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 8274016830
+2024-09-12 22:49:55,115 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
