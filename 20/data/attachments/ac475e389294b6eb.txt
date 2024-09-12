@@ -1,0 +1,38 @@
+2024-09-12 22:59:28,752 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-09-12 22:59:28,752 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-09-12 22:59:34,874 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Laura
+2024-09-12 22:59:35,086 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Kelly
+2024-09-12 22:59:35,255 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением ymiller@example.net
+2024-09-12 22:59:35,395 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-09-12 22:59:35,538 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 8315835268
+2024-09-12 22:59:35,624 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-09-12 22:59:39,651 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-09-12 22:59:39,651 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-09-12 22:59:42,817 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Jennifer
+2024-09-12 22:59:43,676 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Taylor
+2024-09-12 22:59:43,858 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением kimberlyjohnson@example.com
+2024-09-12 22:59:44,137 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-09-12 22:59:44,385 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 1589173510
+2024-09-12 22:59:44,536 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-09-12 22:59:44,871 - tests.test_filling_out_the_form - INFO - Загрузка изображения /home/runner/work/SimbirSoft-SDET-TEST/SimbirSoft-SDET-TEST/images/Battlestar_Galactica.jpg
+2024-09-12 22:59:44,952 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Дата рождения' значением 08-March-1987
+2024-09-12 22:59:47,230 - tests.test_filling_out_the_form - INFO - Выбор предметов: ['Maths', 'Computer Science']
+2024-09-12 22:59:47,723 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Текущий адрес' значением 269 David Village
+North Jacob, CO 32090
+2024-09-12 22:59:47,951 - tests.test_filling_out_the_form - INFO - Выбор штата: NCR и города: Delhi
+2024-09-12 22:59:51,737 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-09-12 22:59:51,737 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-09-12 22:59:54,203 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Matthew
+2024-09-12 22:59:54,797 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Todd
+2024-09-12 22:59:54,998 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением danielleharris@example.net
+2024-09-12 22:59:55,212 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-09-12 22:59:55,352 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 0687888543
+2024-09-12 22:59:55,444 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-09-12 22:59:59,500 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-09-12 22:59:59,500 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-09-12 23:00:01,801 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением John
+2024-09-12 23:00:02,256 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Green
+2024-09-12 23:00:02,349 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением craigdunn@example.net
+2024-09-12 23:00:02,538 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-09-12 23:00:02,616 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 0242325611
+2024-09-12 23:00:02,730 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']

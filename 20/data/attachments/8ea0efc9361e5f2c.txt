@@ -1,0 +1,5 @@
+2024-09-12 22:59:28,739 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
+2024-09-12 22:59:28,739 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 22:59:35,438 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Moore
+2024-09-12 22:59:35,605 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
+2024-09-12 22:59:35,634 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено

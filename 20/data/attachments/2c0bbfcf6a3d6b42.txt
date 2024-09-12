@@ -1,0 +1,8 @@
+2024-09-12 23:00:31,456 - tests.test_registration_form - INFO - Тестирование выбора штата Haryana и города Karnal начато
+2024-09-12 23:00:31,457 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 23:00:35,886 - tests.test_registration_form - INFO - Scroll вниз страницы
+2024-09-12 23:00:36,410 - tests.test_registration_form - INFO - Выбор штата: Haryana
+2024-09-12 23:00:36,559 - tests.test_registration_form - INFO - Выбор города: Karnal
+2024-09-12 23:00:36,652 - tests.test_registration_form - INFO - Проверка корректности выбора штата Haryana
+2024-09-12 23:00:36,676 - tests.test_registration_form - INFO - Проверка корректности выбора города Karnal
+2024-09-12 23:00:36,693 - tests.test_registration_form - INFO - Тестирование выбора штата Haryana и города Karnal завершено

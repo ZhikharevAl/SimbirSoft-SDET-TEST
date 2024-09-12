@@ -1,0 +1,12 @@
+2024-09-12 22:59:47,463 - tests.test_registration_form - INFO - Тестирование выбора хобби начато
+2024-09-12 22:59:47,463 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 22:59:51,656 - tests.test_registration_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-09-12 22:59:55,362 - tests.test_registration_form - INFO - Тестирование выбора хобби начато
+2024-09-12 22:59:55,362 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 22:59:57,410 - tests.test_registration_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-09-12 23:00:02,139 - tests.test_registration_form - INFO - Тестирование выбора хобби начато
+2024-09-12 23:00:02,140 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 23:00:05,183 - tests.test_registration_form - INFO - Выбор хобби: ['Sports', 'Reading']
+2024-09-12 23:00:07,950 - tests.test_registration_form - INFO - Тестирование выбора хобби начато
+2024-09-12 23:00:07,951 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 23:00:11,744 - tests.test_registration_form - INFO - Выбор хобби: ['Sports', 'Reading']

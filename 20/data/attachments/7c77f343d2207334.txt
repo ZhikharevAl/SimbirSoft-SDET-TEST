@@ -1,0 +1,8 @@
+2024-09-12 22:59:28,752 - tests.test_filling_out_the_form - INFO - Начало теста заполнения формы регистрации
+2024-09-12 22:59:28,752 - tests.test_filling_out_the_form - INFO - Открытие страницы регистрации
+2024-09-12 22:59:34,874 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Имя' значением Laura
+2024-09-12 22:59:35,086 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Фамилия' значением Kelly
+2024-09-12 22:59:35,255 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Email' значением ymiller@example.net
+2024-09-12 22:59:35,395 - tests.test_filling_out_the_form - INFO - Выбор пола: Male
+2024-09-12 22:59:35,538 - tests.test_filling_out_the_form - INFO - Заполнение поля 'Мобильный телефон' значением 8315835268
+2024-09-12 22:59:35,624 - tests.test_filling_out_the_form - INFO - Выбор хобби: ['Sports', 'Reading']

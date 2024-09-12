@@ -1,0 +1,5 @@
+2024-09-12 23:00:21,951 - tests.test_registration_form - INFO - Тестирование поля 'Имя' начато
+2024-09-12 23:00:21,952 - tests.test_registration_form - INFO - Открытие страницы регистрации
+2024-09-12 23:00:27,051 - tests.test_registration_form - INFO - Заполнение поля 'Имя' значением Gina
+2024-09-12 23:00:27,464 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Имя'
+2024-09-12 23:00:27,500 - tests.test_registration_form - INFO - Тестирование поля 'Имя' завершено
