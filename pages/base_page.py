@@ -1,4 +1,3 @@
-import os
 import time
 import allure
 from selenium.common import TimeoutException
@@ -55,30 +54,6 @@ class BasePage:
     @allure.step("Получение текста элемента {locator}")
     def get_text(self, locator):
         return self.find_element(locator).text
-
-    @allure.step("Создание скриншота")
-    def take_screenshot(self, name=None):
-        if name is None:
-            name = time.strftime("%Y%m%d-%H%M%S")
-
-        file_name = f"{name}.png"
-        base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-        screenshot_directory = os.path.join(base_dir, 'screenshots')
-
-        if not os.path.exists(screenshot_directory):
-            os.makedirs(screenshot_directory)
-
-        screenshot_path = os.path.join(screenshot_directory, file_name)
-        self.browser.save_screenshot(screenshot_path)
-        allure.attach.file(screenshot_path, name=file_name,
-                           attachment_type=allure.attachment_type.PNG)
-        return screenshot_path
-
-    @allure.step("Ожидание кликабельности элемента {locator}")
-    def element_to_be_clickable(self, locator):
-        return WebDriverWait(self.browser, 10).until(
-            EC.element_to_be_clickable(locator)
-        )
 
     @allure.step("Прокрутка вниз до конца страницы")
     def scroll_to_bottom(self):

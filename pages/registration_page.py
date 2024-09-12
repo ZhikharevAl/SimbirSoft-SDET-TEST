@@ -205,10 +205,6 @@ class RegistrationPage(BasePage):
     def get_submitted_data(self):
         return self.get_text(self.TABLE)
 
-    @allure.step("Создание скриншота")
-    def make_screenshot(self):
-        return self.take_screenshot()
-
     @allure.step("Получение текста модального окна")
     def label_text(self):
         return self.get_text(self.MODAL_CONTENT)

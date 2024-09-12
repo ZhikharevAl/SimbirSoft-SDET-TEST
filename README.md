@@ -69,6 +69,7 @@ allure serve ./allure-results
 
 ![Screenshot 2024-08-08 030328](https://github.com/user-attachments/assets/6c8bf452-f48b-4178-8e4b-0511335c9472)
 
+
 ## Ссылки
 
 Аналогичный проект, реализованный на языке программирования Kotlin с применением инструментария Playwright, доступен по нижеследующей гиперссылке: [Проект на Kotlin с Playwright](https://github.com/ZhikharevAl/demoQAPlaywright).
