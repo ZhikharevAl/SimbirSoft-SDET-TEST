@@ -1,3 +1,5 @@
+import logging
+
 import allure
 import pytest
 from selenium import webdriver
@@ -43,3 +45,12 @@ def pytest_runtest_makereport(item, call):
     outcome = yield
     rep = outcome.get_result()
     setattr(item, "rep_" + rep.when, rep)
+
+def pytest_configure(config):
+    logging.basicConfig(level=logging.INFO,
+                        format='%(asctime)s - %(levelname)s - %(message)s',
+                        datefmt='%Y-%m-%d %H:%M:%S')
+
+@pytest.fixture(scope='session')
+def logger():
+    return logging.getLogger(__name__)
