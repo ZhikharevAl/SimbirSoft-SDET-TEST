@@ -1,5 +1,0 @@
-INFO     tests.test_registration_form:test_registration_form.py:217 Тестирование выбора предметов начато
-INFO     tests.test_registration_form:test_registration_form.py:219 Открытие страницы регистрации
-INFO     tests.test_registration_form:test_registration_form.py:222 Выбор предметов: ['English', 'Chemistry', 'Biology', 'Social Studies', 'Physics']
-INFO     tests.test_registration_form:test_registration_form.py:225 Проверка корректности выбора предметов
-INFO     tests.test_registration_form:test_registration_form.py:227 Тестирование выбора предметов завершено

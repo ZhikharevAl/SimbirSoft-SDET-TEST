@@ -1,5 +1,0 @@
-INFO     tests.test_registration_form:test_registration_form.py:148 Тестирование выбора хобби начато
-INFO     tests.test_registration_form:test_registration_form.py:150 Открытие страницы регистрации
-INFO     tests.test_registration_form:test_registration_form.py:153 Выбор хобби: ['Sports', 'Reading', 'Music']
-INFO     tests.test_registration_form:test_registration_form.py:156 Проверка корректности выбора хобби
-INFO     tests.test_registration_form:test_registration_form.py:159 Тестирование выбора хобби завершено

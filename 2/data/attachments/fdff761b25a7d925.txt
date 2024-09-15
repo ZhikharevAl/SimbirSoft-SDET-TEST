@@ -1,5 +1,0 @@
-2024-08-07 14:13:01,954 - tests.test_registration_form - INFO - Тестирование выбора пола начато
-2024-08-07 14:13:01,954 - tests.test_registration_form - INFO - Открытие страницы регистрации
-2024-08-07 14:13:14,790 - tests.test_registration_form - INFO - Выбор пола: Male
-2024-08-07 14:13:14,902 - tests.test_registration_form - INFO - Проверка корректности выбора пола Male
-2024-08-07 14:13:15,026 - tests.test_registration_form - INFO - Тестирование выбора пола завершено

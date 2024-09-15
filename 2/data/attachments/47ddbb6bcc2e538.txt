@@ -1,6 +1,0 @@
-2024-08-07 14:14:35,474 - tests.test_registration_form - INFO - Тестирование выбора штата Haryana и города Karnal начато
-2024-08-07 14:14:35,474 - tests.test_registration_form - INFO - Открытие страницы регистрации
-2024-08-07 14:14:36,798 - tests.test_registration_form - INFO - Выбор штата: Haryana
-2024-08-07 14:14:39,398 - tests.test_registration_form - INFO - Тестирование выбора штата Haryana и города Karnal начато
-2024-08-07 14:14:39,399 - tests.test_registration_form - INFO - Открытие страницы регистрации
-2024-08-07 14:14:48,632 - tests.test_registration_form - INFO - Выбор штата: Haryana

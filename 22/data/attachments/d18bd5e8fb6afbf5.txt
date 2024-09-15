@@ -1,0 +1,4 @@
+2024-09-15 20:47:54 - WARNING - The chromedriver version (127.0.6533.119) detected in PATH at /opt/hostedtoolcache/setup-chrome/chromedriver/127.0.6533.119/x64/chromedriver might not be compatible with the detected chrome version (128.0.6613.119); currently, chromedriver 128.0.6613.137 is recommended for chrome 128.*, so it is advised to delete the driver in PATH and retry
+2024-09-15 20:47:54 - INFO - Тестирование загрузки изображения начато
+2024-09-15 20:48:30 - WARNING - The chromedriver version (127.0.6533.119) detected in PATH at /opt/hostedtoolcache/setup-chrome/chromedriver/127.0.6533.119/x64/chromedriver might not be compatible with the detected chrome version (128.0.6613.119); currently, chromedriver 128.0.6613.137 is recommended for chrome 128.*, so it is advised to delete the driver in PATH and retry
+2024-09-15 20:48:30 - INFO - Тестирование загрузки изображения начато
