@@ -1,3 +1,0 @@
-2024-08-07 14:06:06,207 - tests.test_registration_form - INFO - Тестирование выбора штата Rajasthan и города Jaipur начато
-2024-08-07 14:06:06,208 - tests.test_registration_form - INFO - Открытие страницы регистрации
-2024-08-07 14:06:13,317 - tests.test_registration_form - INFO - Выбор штата: Rajasthan

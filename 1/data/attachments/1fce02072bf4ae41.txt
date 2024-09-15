@@ -1,5 +1,0 @@
-2024-08-07 14:03:55,165 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' начато
-2024-08-07 14:03:55,166 - tests.test_registration_form - INFO - Открытие страницы регистрации
-2024-08-07 14:04:18,476 - tests.test_registration_form - INFO - Заполнение поля 'Фамилия' значением Sullivan
-2024-08-07 14:04:18,673 - tests.test_registration_form - INFO - Проверка корректности заполнения поля 'Фамилия'
-2024-08-07 14:04:18,697 - tests.test_registration_form - INFO - Тестирование поля 'Фамилия' завершено
