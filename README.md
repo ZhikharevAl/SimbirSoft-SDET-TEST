@@ -1,6 +1,8 @@
-﻿[![Actions status](https://github.com/ZhikharevAl/SimbirSoft-SDET-TEST/actions/workflows/ruff_check.yml/badge.svg)](https://github.com/ZhikharevAl/SimbirSoft-SDET-TEST/actions/workflows/ruff_check.yml)
+﻿#
 
-# SimbirSoft-SDET-TEST
+[![Actions status](https://github.com/ZhikharevAl/SimbirSoft-SDET-TEST/actions/workflows/ruff_check.yml/badge.svg)](https://github.com/ZhikharevAl/SimbirSoft-SDET-TEST/actions/workflows/ruff_check.yml)
+
+## SimbirSoft-SDET-TEST
 
 Этот проект представляет собой набор автоматизированных тестов для веб-приложения с использованием Selenium и Pytest. Проект включает тестирование различных функциональностей, включая загрузку изображений в форме регистрации.
 
@@ -60,15 +62,18 @@ https://github.com/user-attachments/assets/9432cb62-16de-4f6a-aeb9-c36f963e403f
 ```bash
 allure serve ./allure-results
 ```
+
 ![Screenshot 2024-08-07 144931](https://github.com/user-attachments/assets/5020df27-7a55-4646-ae47-6e75a2166333)
 
 ### История запусков
+
 ![Screenshot 2024-08-08 030328](https://github.com/user-attachments/assets/6c8bf452-f48b-4178-8e4b-0511335c9472)
 
 
 ## Ссылки
 
-Этот же проект на Kotlin с использованием Playwright находится в стадии разработки. Вы можете следить за его прогрессом по следующей ссылке: [Проект на Kotlin с Playwright (в разработке)](https://github.com/ZhikharevAl/demoQAPlaywright).
+Аналогичный проект, реализованный на языке программирования Kotlin с применением инструментария Playwright, доступен по нижеследующей гиперссылке: [Проект на Kotlin с Playwright](https://github.com/ZhikharevAl/demoQAPlaywright).
+
 ## Лицензия
 
 Этот проект лицензирован под лицензией MIT. Подробности смотрите в файле [LICENSE](LICENSE.md)
