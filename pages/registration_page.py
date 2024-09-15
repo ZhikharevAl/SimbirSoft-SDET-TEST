@@ -1,11 +1,8 @@
 import allure
 from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
-from logger_config import configure_logger
 
 from pages.base_page import BasePage
-
-logger = configure_logger(__name__, "test.log")
 
 
 class RegistrationPage(BasePage):
@@ -197,8 +194,6 @@ class RegistrationPage(BasePage):
     def is_submission_successful(self):
         is_visible = self.is_element_visible(self.MODAL_CONTENT)
         modal_text = self.get_text(self.MODAL_CONTENT) if is_visible else ""
-        logger.info(f"Модальное окно видимо: {is_visible}")
-        logger.info(f"Текст модального окна: {modal_text}")
         return is_visible and "Thanks for submitting the form" in modal_text
 
     @allure.step("Получение отправленных данных")
